@@ -1,0 +1,24 @@
+{
+  "name": "alatt",
+  "version": "0.1.0",
+  "description": "javascript tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "to",
+    "array",
+    "get",
+    "array",
+    "using",
+    "string",
+    "accessing",
+    "array",
+    "using",
+    "string"
+  ],
+  "author": "zaenulhilmi",
+  "license": "ISC"
+}
